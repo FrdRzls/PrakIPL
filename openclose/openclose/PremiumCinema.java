@@ -1,3 +1,4 @@
+package openclose;
 
 class PremiumCinema extends Cinema {
 

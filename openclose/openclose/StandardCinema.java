@@ -1,3 +1,4 @@
+package openclose;
 
 class StandardCinema extends Cinema {
 

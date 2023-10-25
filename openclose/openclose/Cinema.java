@@ -1,3 +1,4 @@
+package openclose;
 
 abstract class Cinema {
 
