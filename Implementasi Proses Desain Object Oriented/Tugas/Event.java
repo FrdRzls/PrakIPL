@@ -1,5 +1,6 @@
 package Tugas;
 
-class Event {
-    // Konstruktor dan metode Event
+public class Event {
+
+  public void handleEvent() {}
 }
